@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: yellow;
+    text-decoration: underline;
+    font-size: 69px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+p  {
+    font-size: 50px;
+    margin-left: 3%;
+}
+
+.flex-container {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
